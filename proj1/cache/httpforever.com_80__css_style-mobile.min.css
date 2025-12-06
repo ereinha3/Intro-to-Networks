@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 01 Nov 2025 00:12:06 GMT
+Content-Type: text/css
+Content-Length: 596
+Last-Modified: Wed, 16 Nov 2022 20:59:47 GMT
+Connection: close
+ETag: "63754f43-254"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'
+Content-Security-Policy: default-src 'self'; script-src cdnjs.cloudflare.com 'self' 'report-sha256'; style-src cdnjs.cloudflare.com 'self' fonts.googleapis.com 'unsafe-inline'; font-src fonts.googleapis.com fonts.gstatic.com cdnjs.cloudflare.com; frame-ancestors 'none'; report-uri https://scotthelme.report-uri.com/r/d/csp/enforce
+Accept-Ranges: bytes
+
+h2,h3,h4{line-height:1.5em}body,input,select,textarea{font-size:11pt}h2{font-size:1.25em}h3{font-size:1.1em}h4,header.major p{font-size:1em}header.major{margin-bottom:3em}header.major>:first-child{padding:0 .5em}header.major>:first-child:after,header.major>:first-child:before{background-size:300% 10px}.box{padding:2em}.box.special{padding:2em;width:28em}.wrapper{padding:3em 2em}#banner{background-size:675px 135px;padding:5em 2em 4em}#banner h2{font-size:2em}#banner p{font-size:1.25em}#footer,#main{padding:2em 0}#footer .copyright li{border-left:0;display:block;margin-left:0;padding-left:0}

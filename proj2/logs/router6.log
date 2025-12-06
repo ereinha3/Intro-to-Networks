@@ -1,0 +1,19 @@
+Router 6 socket created
+Router 6 listening on 8006
+Router 6 connected with 127.0.0.1:52238
+Router 6 recieved packet 141.134.121.228,10.0.0.96,have,2
+Router 6 OUT: have
+Router 6 recieved packet 182.9.170.44,10.0.0.110,During,3
+Router 6 OUT: During
+Router 6 recieved packet 145.125.253.238,10.0.0.125,power,1
+Router 6 OUT: power
+Router 6 recieved packet 61.31.25.67,10.0.0.101,to,2
+Router 6 OUT: to
+Router 6 recieved packet 197.186.46.194,10.0.0.115,Pursued,1
+Router 6 OUT: Pursued
+Router 6 recieved packet 88.103.183.51,10.0.0.122,her,4
+Router 6 OUT: her
+Router 6 recieved packet 57.79.28.239,10.0.0.118,save,1
+Router 6 OUT: save
+Router 6 recieved packet 169.236.44.218,10.0.0.100,and,1
+Router 6 OUT: and

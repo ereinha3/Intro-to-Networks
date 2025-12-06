@@ -1,0 +1,113 @@
+Router 4 socket created
+Router 4 listening on 8004
+Waiting for router on port 8005 (attempt 1): [Errno 61] Connection refused
+Router 4 connected with 127.0.0.1:52231
+Router 4 connected with 127.0.0.1:52233
+Router 4 recieved packet 163.120.179.133,10.0.0.81,It,6
+Router 4 forwarding 163.120.179.133,10.0.0.81,It,5 to Router 5
+Router 4 recieved packet 85.21.138.42,10.0.0.84,of,2
+Router 4 forwarding 85.21.138.42,10.0.0.84,of,1 to Router 5
+Router 4 recieved packet 21.153.138.62,10.0.0.78,war.,3
+Router 4 forwarding 21.153.138.62,10.0.0.78,war.,2 to Router 5
+Router 4 recieved packet 40.173.213.130,159.21.205.131,spaceships,3
+Router 4 forwarding 40.173.213.130,159.21.205.131,spaceships,2 to Router 5
+Router 4 recieved packet 129.81.162.172,124.116.149.188,striking,3
+Router 4 forwarding 129.81.162.172,124.116.149.188,striking,2 to Router 5
+Router 4 recieved packet 227.115.105.218,10.0.0.164,a,6
+Router 4 OUT: a
+Router 4 recieved packet 132.133.229.65,129.236.199.167,base,3
+Router 4 forwarding 132.133.229.65,129.236.199.167,base,2 to Router 5
+Router 4 recieved packet 141.134.121.228,10.0.0.96,have,3
+Router 4 forwarding 141.134.121.228,10.0.0.96,have,2 to Router 6
+Router 4 recieved packet 251.145.229.229,125.158.229.29,their,5
+Router 4 forwarding 251.145.229.229,125.158.229.29,their,4 to Router 5
+Router 4 recieved packet 67.234.52.1,240.115.229.25,first,2
+Router 4 forwarding 67.234.52.1,240.115.229.25,first,1 to Router 5
+Router 4 recieved packet 188.71.91.33,160.235.247.184,against,2
+Router 4 forwarding 188.71.91.33,160.235.247.184,against,1 to Router 5
+Router 4 recieved packet 218.34.61.114,106.184.139.63,the,3
+Router 4 forwarding 218.34.61.114,106.184.139.63,the,2 to Router 5
+Router 4 recieved packet 2.66.47.62,112.131.19.21,evil,5
+Router 4 forwarding 2.66.47.62,112.131.19.21,evil,4 to Router 5
+Router 4 recieved packet 138.172.147.178,220.170.151.114,Galactic,2
+Router 4 forwarding 138.172.147.178,220.170.151.114,Galactic,1 to Router 5
+Router 4 recieved packet 14.123.3.34,89.125.201.1,Empire.,5
+Router 4 forwarding 14.123.3.34,89.125.201.1,Empire.,4 to Router 5
+Router 4 recieved packet 182.9.170.44,10.0.0.110,During,4
+Router 4 forwarding 182.9.170.44,10.0.0.110,During,3 to Router 6
+Router 4 recieved packet 90.26.174.116,226.40.186.90,the,4
+Router 4 forwarding 90.26.174.116,226.40.186.90,the,3 to Router 5
+Router 4 recieved packet 13.83.117.65,82.152.82.133,spies,2
+Router 4 forwarding 13.83.117.65,82.152.82.133,spies,1 to Router 5
+Router 4 recieved packet 69.93.70.201,10.0.0.65,managed,4
+Router 4 forwarding 69.93.70.201,10.0.0.65,managed,3 to Router 5
+Router 4 recieved packet 58.65.226.121,10.0.0.69,THE,1
+Router 4 DISCARD: 58.65.226.121,10.0.0.69,THE,0
+Router 4 recieved packet 60.200.250.123,10.0.0.179,secret,6
+Router 4 OUT: secret
+Router 4 recieved packet 172.119.12.95,132.148.21.165,to,4
+Router 4 forwarding 172.119.12.95,132.148.21.165,to,3 to Router 5
+Router 4 recieved packet 63.12.23.98,10.0.0.86,the,2
+Router 4 forwarding 63.12.23.98,10.0.0.86,the,1 to Router 5
+Router 4 recieved packet 61.126.76.30,10.0.0.139,Empire's,5
+Router 4 OUT: Empire's
+Router 4 recieved packet 228.15.235.228,134.197.103.190,ultimate,2
+Router 4 forwarding 228.15.235.228,134.197.103.190,ultimate,1 to Router 5
+Router 4 recieved packet 113.255.118.159,10.0.0.175,the,6
+Router 4 OUT: the
+Router 4 recieved packet 241.173.141.120,10.0.0.175,DEATH,4
+Router 4 OUT: DEATH
+Router 4 recieved packet 194.89.251.245,10.0.0.70,STAR,6
+Router 4 forwarding 194.89.251.245,10.0.0.70,STAR,5 to Router 5
+Router 4 recieved packet 4.168.171.78,10.0.0.188,armored,5
+Router 4 OUT: armored
+Router 4 recieved packet 120.133.233.237,146.15.91.132,space,3
+Router 4 forwarding 120.133.233.237,146.15.91.132,space,2 to Router 5
+Router 4 recieved packet 191.83.15.16,10.99.222.0,enough,3
+Router 4 forwarding 191.83.15.16,10.99.222.0,enough,2 to Router 5
+Router 4 recieved packet 145.125.253.238,10.0.0.125,power,2
+Router 4 forwarding 145.125.253.238,10.0.0.125,power,1 to Router 6
+Router 4 recieved packet 61.31.25.67,10.0.0.101,to,3
+Router 4 forwarding 61.31.25.67,10.0.0.101,to,2 to Router 6
+Router 4 recieved packet 119.178.213.101,10.0.0.132,destroy,2
+Router 4 OUT: destroy
+Router 4 recieved packet 134.87.209.97,214.174.22.103,entire,5
+Router 4 forwarding 134.87.209.97,214.174.22.103,entire,4 to Router 5
+Router 4 recieved packet 197.186.46.194,10.0.0.115,Pursued,2
+Router 4 forwarding 197.186.46.194,10.0.0.115,Pursued,1 to Router 6
+Router 4 recieved packet 43.126.251.77,75.255.68.179,the,3
+Router 4 forwarding 43.126.251.77,75.255.68.179,the,2 to Router 5
+Router 4 recieved packet 102.187.248.198,10.0.0.167,sinister,3
+Router 4 OUT: sinister
+Router 4 recieved packet 113.204.119.182,10.0.0.82,agents,6
+Router 4 forwarding 113.204.119.182,10.0.0.82,agents,5 to Router 5
+Router 4 recieved packet 98.47.159.136,75.216.255.9,Princess,2
+Router 4 forwarding 98.47.159.136,75.216.255.9,Princess,1 to Router 5
+Router 4 recieved packet 250.137.227.248,10.0.0.74,Leia,4
+Router 4 forwarding 250.137.227.248,10.0.0.74,Leia,3 to Router 5
+Router 4 recieved packet 185.85.169.245,62.58.20.72,races,4
+Router 4 forwarding 185.85.169.245,62.58.20.72,races,3 to Router 5
+Router 4 recieved packet 12.97.17.146,69.77.137.116,aboard,2
+Router 4 forwarding 12.97.17.146,69.77.137.116,aboard,1 to Router 5
+Router 4 recieved packet 88.103.183.51,10.0.0.122,her,5
+Router 4 forwarding 88.103.183.51,10.0.0.122,her,4 to Router 6
+Router 4 recieved packet 232.174.128.64,248.170.131.115,starship,3
+Router 4 forwarding 232.174.128.64,248.170.131.115,starship,2 to Router 5
+Router 4 recieved packet 48.12.174.145,10.0.0.128,custodian,5
+Router 4 OUT: custodian
+Router 4 recieved packet 237.210.96.30,109.128.123.96,of,4
+Router 4 forwarding 237.210.96.30,109.128.123.96,of,3 to Router 5
+Router 4 recieved packet 105.166.131.15,10.0.0.64,the,3
+Router 4 forwarding 105.166.131.15,10.0.0.64,the,2 to Router 5
+Router 4 recieved packet 217.122.110.120,40.84.208.61,plans,2
+Router 4 forwarding 217.122.110.120,40.84.208.61,plans,1 to Router 5
+Router 4 recieved packet 40.77.120.212,10.0.0.71,can,6
+Router 4 forwarding 40.77.120.212,10.0.0.71,can,5 to Router 5
+Router 4 recieved packet 57.79.28.239,10.0.0.118,save,2
+Router 4 forwarding 57.79.28.239,10.0.0.118,save,1 to Router 6
+Router 4 recieved packet 215.67.76.166,137.209.135.28,people,3
+Router 4 forwarding 215.67.76.166,137.209.135.28,people,2 to Router 5
+Router 4 recieved packet 169.236.44.218,10.0.0.100,and,2
+Router 4 forwarding 169.236.44.218,10.0.0.100,and,1 to Router 6
+Router 4 recieved packet 189.220.107.132,10.0.0.149,to,2
+Router 4 OUT: to
