@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "e2e98d6d43ae0c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "139d1c295f2345f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2db2ba488665f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter1/questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e17c07cb48439db",
+    "type": "split",
+    "children": [
+      {
+        "id": "25083162a299d21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d02ff32350f190f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff392d641ef98afe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4eea04cb9a850abd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b926eff0ca66274",
+    "type": "split",
+    "children": [
+      {
+        "id": "35fb1d8ae402c621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a9d684e08265fba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter4/solutions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for solutions"
+            }
+          },
+          {
+            "id": "2723cd7911d9b34a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chapter4/solutions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from solutions"
+            }
+          },
+          {
+            "id": "fdaeb1a49a29ff0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e9168c0643868cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e3b99ee888ac9a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapter4/solutions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of solutions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3e2db2ba488665f5",
+  "lastOpenFiles": [
+    "chapter1/notes.md",
+    "chapter4/solutions.md",
+    "chapter4/answers.md",
+    "chapter2/questions.md",
+    "chapter4/questions.md",
+    "chapter4/notes.md",
+    "chapter6/questions.md",
+    "chapter6/solutions.md",
+    "chapter5/questions.md",
+    "chapter5/solutions.md",
+    "chapter5/answers.md",
+    "chapter6/answers.md",
+    "chapter6/notes.md",
+    "Untitled.md",
+    "chapter2/notes.md",
+    "chapter5/notes.md",
+    "chapter1/questions.md",
+    "chapter3/notes.md",
+    "chapter6",
+    "chapter5",
+    "chapter4",
+    "chapter3",
+    "chapter2",
+    "chapter1.md",
+    "chapter1"
+  ]
+}
