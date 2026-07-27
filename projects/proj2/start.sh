@@ -5,12 +5,12 @@ set -euo pipefail
 trap 'echo "Stopping routers..."; pkill -P $$ || true' EXIT
 
 source "$(dirname "$0")/routers.env"
-if [ -f "code/.venv/bin/activate" ]; then
-  source code/.venv/bin/activate
+if [ -f ".venv/bin/activate" ]; then
+  source .venv/bin/activate
 fi
 
-mkdir -p code
 mkdir -p logs
+mkdir -p output
 
 PYTHONUNBUFFERED=1 python3 -m code.router6 | tee logs/router6.log &
 PYTHONUNBUFFERED=1 python3 -m code.router5 | tee logs/router5.log &
